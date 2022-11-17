@@ -1,6 +1,6 @@
 <div align="center">
   <a href="./">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Android-Battalion/.github/blob/main/profile/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align = "center">
