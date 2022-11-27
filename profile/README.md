@@ -12,6 +12,12 @@ We are an organization created in order to help new and experienced developers f
 
  We love building projects from stratch and mainly specialize in Native Android but also play around with other technologies from time to time.
 
+<div align="center">
+  <a href="./">
+ <img src="https://github.com/Android-Battalion/.github/blob/main/assets/android.gif" alt="Logo" width="80" height="80">
+  </a>
+
+
 <br>
 <h3 align="center"><b>Our Toolkit:</b><h3>
 
