@@ -1,6 +1,6 @@
 <div align="center">
   <a href="./">
-    <img src="https://github.com/Android-Battalion/.github/blob/main/profile/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Android-Battalion/.github/blob/main/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align = "center">
@@ -8,9 +8,20 @@
 </h1>
 </div> 
 
-We are an organization created in order to help new and experienced developers find help, get real project experience, and overall be surrounded by like minded developers looking to get things done done and learn something along the way.
+We are an organization created in order to help new and experienced developers find help, get real project experience, and overall be surrounded by like minded developers looking to get things done and learn something along the way.
 
- We love building projects from stratch and mainly specialize in Native Android but also play around with other technologies from time to time.
+ We love building projects from stratch and mainly specialize in Native Android, which encompases: the Android SDK, Java/Kotlin, Gradle, Software Architecture, Jetpack Compose and UI/UX. 
+
+ Although, we also like to play around with other technologies from time to time!
+
+Feel free to take a look or contribute at our ongoing collaborative projects or either stand-alone projects made by some of the organization members.
+
+
+<div align="center">
+  <a href="./">
+ <img src="https://github.com/Android-Battalion/.github/blob/main/assets/android.gif" alt="Logo" width="80" height="80">
+  </a>
+
 
 <br>
 <h3 align="center"><b>Our Toolkit:</b><h3>
