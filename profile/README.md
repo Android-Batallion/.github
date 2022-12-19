@@ -1,12 +1,4 @@
-<div align="center">
-  <a href="./">
-    <img src="https://github.com/Android-Battalion/.github/blob/main/assets/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h1 align = "center">
-<b><i>Android Battalion</i></b>
-</h1>
-</div> 
+![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 We are an organization created in order to help new and experienced developers find help, get real project experience, and overall be surrounded by like minded developers looking to get things done and learn something along the way.
 
@@ -22,8 +14,8 @@ Feel free to take a look or contribute at our ongoing collaborative projects or 
  <img src="https://github.com/Android-Battalion/.github/blob/main/assets/android.gif" alt="Logo" width="80" height="80">
   </a>
 
-
 <br>
+
 <h3 align="center"><b>Our Toolkit:</b><h3>
 
 <br>
