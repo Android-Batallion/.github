@@ -1,10 +1,8 @@
 ![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-We are an organization created in order to help new and experienced developers find help, get real project experience, and overall be surrounded by like minded developers looking to get things done and learn something along the way.
+We are an organization created in order to help new and experienced developers find help, build open source projects, share experiences and overall be surrounded by like minded developers looking to get things done and learn something along the way.
 
- We love building projects from stratch and mainly specialize in Native Android, which encompases: the Android SDK, Java/Kotlin, Gradle, Software Architecture, Jetpack Compose and UI/UX. 
-
- Although, we also like to play around with other technologies from time to time!
+ We love building projects from stratch and mainly specialize in Native Android, which encompases: the Android SDK, Java/Kotlin, Gradle, Software Architecture, Jetpack Compose and UI/UX. Although, we also like to play around with other technologies from time to time!
 
 Feel free to take a look or contribute at our ongoing collaborative projects or either stand-alone projects made by some of the organization members.
 
