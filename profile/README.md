@@ -8,7 +8,7 @@ We are an organization created in order to help new and experienced developers f
 
 Feel free to take a look or contribute at our ongoing collaborative projects or either stand-alone projects made by some of the organization members.
 
-[Join Our Discord Group!](https://discord.gg/SmPdSKBP4R)🤞 - If you want to join or just check it out and see if it's for you or not. Everything we do is out there unless it's contract work and the client requests it stays private (happens often on web projects). 
+[Our Discord Group!](https://discord.gg/SmPdSKBP4R)🤞 - If you want to join or just check it out and see if it's for you or not. Everything we do is out there unless it's contract work and the client requests it stays private (happens often on web projects). 
 
 <div align="center">
   <a href="./">
